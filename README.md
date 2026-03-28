@@ -20,7 +20,7 @@ A lightweight repository for experimenting with AI workflows. Comes with example
 
 ## Notes & troubleshooting
 
-- Models in `models/huggingface/` are large — remove or re-download as needed.
+- Models in `huggingface/` are large — remove or re-download as needed.
 - For GPU use, ensure your installed `torch` matches your CUDA version (see `requirements_torch_cuda130.txt`).
 
 ## License
